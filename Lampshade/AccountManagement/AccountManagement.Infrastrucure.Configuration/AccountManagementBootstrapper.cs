@@ -8,7 +8,7 @@ using AccountManagement.Infrastructure.EFCore.Repository;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace AccountManagement.Configuration
+namespace AccountManagement.Infrastructure.Configuration
 {
     public class AccountManagementBootstrapper
     {

@@ -17,8 +17,6 @@
   <ItemGroup>
     <ProjectReference Include="..\01_LampshadeQuery\01_LampshadeQuery.csproj" />
     <ProjectReference Include="..\0_Framework\0_Framework.csproj" />
-    <ProjectReference Include="..\AccountManagements\AccountManagement.Application.Contracts\AccountManagement.Application.Contracts.csproj" />
-    <ProjectReference Include="..\AccountManagement\AccountManagement.Application.Contracts\AccountManagement.Application.Contracts.csproj" />
     <ProjectReference Include="..\AccountManagement\AccountManagement.Infrastrucure.Configuration\AccountManagement.Infrastructure.Configuration.csproj" />
     <ProjectReference Include="..\BlogManagement\BlogManagement.Infrastructure.Configuration\BlogManagement.Infrastructure.Configuration.csproj" />
     <ProjectReference Include="..\CommentManagement\CommentManagement.Infrastructure.Configuration\CommentManagement.Infrastructure.Configuration.csproj" />

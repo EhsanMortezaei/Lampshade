@@ -1,7 +1,7 @@
 using _0_Framework.Application;
 using _0_Framework.Application.ZarinPal;
 using _0_Framework.Infrastructure;
-using AccountManagement.Configuration;
+using AccountManagement.Infrastructure.Configuration;
 using BlogManagement.Infrastructure.Configuration;
 using CommentManagement.Infrastructure.Configuration;
 using DiscountManagement.Configuration;
