@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\AccountManagement\AccountManagement.Configuration\AccountManagement.Configuration.csproj" />
+    <ProjectReference Include="..\..\CommentManagement\CommentManagement.Infrastructure.Configuration\CommentManagement.Infrastructure.Configuration.csproj" />
+    <ProjectReference Include="..\..\ServiceHost\ServiceHost.csproj" />
+    <ProjectReference Include="..\BlogManagement.Infrastructure.Configuration\BlogManagement.Infrastructure.Configuration.csproj" />
+  </ItemGroup>
+
+</Project>
